@@ -1,4 +1,5 @@
-hello eoeoeoeoeo kodaewoo hihihi
+hello kodaewoo
+hihihi
 
 Computer Sciences
 C Programming
